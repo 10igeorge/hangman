@@ -1,7 +1,7 @@
 # intro-hangman
 
 ## Created By
-Isabelle George
+Isabelle George & Taylor Pokoj
 
 #### Description
 Intro Epicodus project featuring a hangman app built with JavaScript -- still need to adjust images to display
@@ -12,4 +12,4 @@ Intro Epicodus project featuring a hangman app built with JavaScript -- still ne
 
 ##### License
 
-Copyright (c) 2016 Isabelle George
+Copyright (c) 2016 Isabelle George & Taylor Pokoj
